@@ -1,0 +1,12 @@
+/Users/kjt/Local_Projects/dotnet-console/bin/Debug/netcoreapp3.1/dotnet-console.deps.json
+/Users/kjt/Local_Projects/dotnet-console/bin/Debug/netcoreapp3.1/dotnet-console.runtimeconfig.json
+/Users/kjt/Local_Projects/dotnet-console/bin/Debug/netcoreapp3.1/dotnet-console.runtimeconfig.dev.json
+/Users/kjt/Local_Projects/dotnet-console/bin/Debug/netcoreapp3.1/dotnet-console.dll
+/Users/kjt/Local_Projects/dotnet-console/bin/Debug/netcoreapp3.1/dotnet-console.pdb
+/Users/kjt/Local_Projects/dotnet-console/obj/Debug/netcoreapp3.1/dotnet-console.csprojAssemblyReference.cache
+/Users/kjt/Local_Projects/dotnet-console/obj/Debug/netcoreapp3.1/dotnet-console.AssemblyInfoInputs.cache
+/Users/kjt/Local_Projects/dotnet-console/obj/Debug/netcoreapp3.1/dotnet-console.AssemblyInfo.cs
+/Users/kjt/Local_Projects/dotnet-console/obj/Debug/netcoreapp3.1/dotnet-console.csproj.CoreCompileInputs.cache
+/Users/kjt/Local_Projects/dotnet-console/obj/Debug/netcoreapp3.1/dotnet-console.dll
+/Users/kjt/Local_Projects/dotnet-console/obj/Debug/netcoreapp3.1/dotnet-console.pdb
+/Users/kjt/Local_Projects/dotnet-console/obj/Debug/netcoreapp3.1/dotnet-console.genruntimeconfig.cache
